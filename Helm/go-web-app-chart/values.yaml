@@ -8,7 +8,7 @@ image:
   repository: abhishekf5/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "17444337134"
+  tag: "17444362522"
 service:
   type: ClusterIP
   port: 80
